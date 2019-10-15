@@ -1,4 +1,4 @@
-# Ruby_Uzduotis C++
+# Ruby Uzduotis 2 (C++ to Ruby)
 ___________________________________________________________________
 Pirma uzduotis:
 
