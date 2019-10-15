@@ -2,7 +2,7 @@
 ___________________________________________________________________
 Pirma uzduotis c++ :
 
-int  paz ;
+    int  paz ;
 
     cout << "Koki pazymi gavo studentas?" << endl;
 
@@ -13,7 +13,7 @@ int  paz ;
 ____________________________________________________________________    
 Antra uzduotis c++ :
 
-int a, b, c , maz=0;
+    int a, b, c , maz=0;
 
     cout << "Iveskite tris skaicius" << endl;
 
@@ -30,7 +30,7 @@ int a, b, c , maz=0;
 _____________________________________________________________________
 Trecia uzduotis c++ :
 
-int sum, atlyg = 0;
+    int sum, atlyg = 0;
 
     cout << "Uz kiek pardave prekes pardavejas?" << endl;
 
