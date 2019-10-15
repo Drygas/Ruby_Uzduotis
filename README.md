@@ -1,6 +1,6 @@
 # Ruby_Uzduotis
 ___________________________________________________________________
-Pirma uzduotis c++ :
+Pirma uzduotis:
 
     int  paz ;
 
@@ -11,7 +11,7 @@ Pirma uzduotis c++ :
     if (paz>=5) cout << "Studentas egzamina islaike" << endl;
     else cout << "Studentas egzamino neislaike" << endl;
 ____________________________________________________________________    
-Antra uzduotis c++ :
+Antra uzduotis:
 
     int a, b, c , maz=0;
 
@@ -28,7 +28,7 @@ Antra uzduotis c++ :
 
     cout << "Maziausias skaicius yra " << maz << endl;
 _____________________________________________________________________
-Trecia uzduotis c++ :
+Trecia uzduotis:
 
     int sum, atlyg = 0;
 
